@@ -4,7 +4,7 @@ const Intro = () => {
     <Fragment>
       <div className="about_title w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[20px] mb-[30px]">
         <h3 className="text-[22px] font-bold">Yuanda Xu</h3>
-        <span>Front-End Developerr</span>
+        <span>Front-End Developer</span>
       </div>
       <div className="about_text w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[31px] mb-[30px]">
         <p className="mb-[11px]">
